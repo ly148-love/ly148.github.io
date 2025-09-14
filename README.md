@@ -1,8 +1,1 @@
-基础框架：
-	<!DOCTYPE html>
-	<html>
-	<body>
-
-  		
-	</body>
-	</html>
+随便建了个网页玩玩
